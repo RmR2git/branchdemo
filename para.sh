@@ -1,0 +1,1 @@
+echo " checking parameter jobs"
